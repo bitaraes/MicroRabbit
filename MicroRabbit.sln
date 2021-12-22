@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Microservices", "Microservices", "{0170BE60-AAF4-4F7C-8242-E233BACB81B1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{2835D4A1-EAD5-48D4-9987-B5835ED68306}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra", "Infra", "{374A8638-8865-43C7-8B49-954345AC3A0B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra.Bus", "Infra.Bus", "{B4613403-4F77-444F-8D52-A2E6D70145A4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra.Ioc", "Infra.Ioc", "{F0C40BB8-3829-4DAF-956C-E50E6C2F85EC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{89A9E5B3-A022-4EBA-B986-7B3CE758D77D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroRabbit.Domain.Core", "MicroRabbit.Domain.Core\MicroRabbit.Domain.Core.csproj", "{7F6090F2-A133-432D-9261-D90E1C2D8DB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F6090F2-A133-432D-9261-D90E1C2D8DB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F6090F2-A133-432D-9261-D90E1C2D8DB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F6090F2-A133-432D-9261-D90E1C2D8DB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F6090F2-A133-432D-9261-D90E1C2D8DB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7F6090F2-A133-432D-9261-D90E1C2D8DB6} = {2835D4A1-EAD5-48D4-9987-B5835ED68306}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A1232DB-4743-45CB-9035-8CA491DBA05A}
+	EndGlobalSection
+EndGlobal
