@@ -1,5 +1,15 @@
+C:\Users\Igor\source\repos\MicroRabbit\MicroRabbit.infra.Bus\bin\Debug\net5.0\MicroRabbit.infra.Bus.deps.json
+C:\Users\Igor\source\repos\MicroRabbit\MicroRabbit.infra.Bus\bin\Debug\net5.0\MicroRabbit.infra.Bus.dll
+C:\Users\Igor\source\repos\MicroRabbit\MicroRabbit.infra.Bus\bin\Debug\net5.0\ref\MicroRabbit.infra.Bus.dll
+C:\Users\Igor\source\repos\MicroRabbit\MicroRabbit.infra.Bus\bin\Debug\net5.0\MicroRabbit.infra.Bus.pdb
+C:\Users\Igor\source\repos\MicroRabbit\MicroRabbit.infra.Bus\bin\Debug\net5.0\MicroRabbit.Domain.Core.dll
+C:\Users\Igor\source\repos\MicroRabbit\MicroRabbit.infra.Bus\bin\Debug\net5.0\MicroRabbit.Domain.Core.pdb
 C:\Users\Igor\source\repos\MicroRabbit\MicroRabbit.infra.Bus\obj\Debug\net5.0\MicroRabbit.infra.Bus.csproj.AssemblyReference.cache
 C:\Users\Igor\source\repos\MicroRabbit\MicroRabbit.infra.Bus\obj\Debug\net5.0\MicroRabbit.infra.Bus.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Igor\source\repos\MicroRabbit\MicroRabbit.infra.Bus\obj\Debug\net5.0\MicroRabbit.infra.Bus.AssemblyInfoInputs.cache
 C:\Users\Igor\source\repos\MicroRabbit\MicroRabbit.infra.Bus\obj\Debug\net5.0\MicroRabbit.infra.Bus.AssemblyInfo.cs
 C:\Users\Igor\source\repos\MicroRabbit\MicroRabbit.infra.Bus\obj\Debug\net5.0\MicroRabbit.infra.Bus.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\MicroRabbit\MicroRabbit.infra.Bus\obj\Debug\net5.0\MicroRabbit.infra.Bus.csproj.CopyComplete
+C:\Users\Igor\source\repos\MicroRabbit\MicroRabbit.infra.Bus\obj\Debug\net5.0\MicroRabbit.infra.Bus.dll
+C:\Users\Igor\source\repos\MicroRabbit\MicroRabbit.infra.Bus\obj\Debug\net5.0\ref\MicroRabbit.infra.Bus.dll
+C:\Users\Igor\source\repos\MicroRabbit\MicroRabbit.infra.Bus\obj\Debug\net5.0\MicroRabbit.infra.Bus.pdb

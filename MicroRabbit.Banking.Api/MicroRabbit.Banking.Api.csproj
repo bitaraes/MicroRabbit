@@ -4,4 +4,18 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="9.0.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="9.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MicroRabbit.Domain.Core\MicroRabbit.Domain.Core.csproj" />
+    <ProjectReference Include="..\MicroRabbit.Infra.Ioc\MicroRabbit.Infra.Ioc.csproj" />
+  </ItemGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\MicroRabbit.Infra.Ioc\MicroRabbit.Infra.Ioc.csproj" />
+	</ItemGroup>
+
 </Project>
