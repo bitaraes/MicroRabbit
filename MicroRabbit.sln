@@ -17,7 +17,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentatio
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicroRabbit.Domain.Core", "MicroRabbit.Domain.Core\MicroRabbit.Domain.Core.csproj", "{7F6090F2-A133-432D-9261-D90E1C2D8DB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroRabbit.infra.Bus", "MicroRabbit.infra.Bus\MicroRabbit.infra.Bus.csproj", "{1F651D0B-7765-4740-A0E5-317D33138294}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicroRabbit.infra.Bus", "MicroRabbit.infra.Bus\MicroRabbit.infra.Bus.csproj", "{1F651D0B-7765-4740-A0E5-317D33138294}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroRabbit.Infra.Ioc", "MicroRabbit.Infra.Ioc\MicroRabbit.Infra.Ioc.csproj", "{26B68D77-8936-40E1-8809-C791314B1397}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{1F651D0B-7765-4740-A0E5-317D33138294}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F651D0B-7765-4740-A0E5-317D33138294}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F651D0B-7765-4740-A0E5-317D33138294}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26B68D77-8936-40E1-8809-C791314B1397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26B68D77-8936-40E1-8809-C791314B1397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26B68D77-8936-40E1-8809-C791314B1397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26B68D77-8936-40E1-8809-C791314B1397}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -40,6 +46,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{7F6090F2-A133-432D-9261-D90E1C2D8DB6} = {2835D4A1-EAD5-48D4-9987-B5835ED68306}
 		{1F651D0B-7765-4740-A0E5-317D33138294} = {B4613403-4F77-444F-8D52-A2E6D70145A4}
+		{26B68D77-8936-40E1-8809-C791314B1397} = {F0C40BB8-3829-4DAF-956C-E50E6C2F85EC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8A1232DB-4743-45CB-9035-8CA491DBA05A}
