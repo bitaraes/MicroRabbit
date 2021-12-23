@@ -1,0 +1,5 @@
+C:\Users\Igor\source\repos\MicroRabbit\MicroRabbit.infra.Bus\obj\Debug\net5.0\MicroRabbit.infra.Bus.csproj.AssemblyReference.cache
+C:\Users\Igor\source\repos\MicroRabbit\MicroRabbit.infra.Bus\obj\Debug\net5.0\MicroRabbit.infra.Bus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\source\repos\MicroRabbit\MicroRabbit.infra.Bus\obj\Debug\net5.0\MicroRabbit.infra.Bus.AssemblyInfoInputs.cache
+C:\Users\Igor\source\repos\MicroRabbit\MicroRabbit.infra.Bus\obj\Debug\net5.0\MicroRabbit.infra.Bus.AssemblyInfo.cs
+C:\Users\Igor\source\repos\MicroRabbit\MicroRabbit.infra.Bus\obj\Debug\net5.0\MicroRabbit.infra.Bus.csproj.CoreCompileInputs.cache
