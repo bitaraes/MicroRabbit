@@ -35,6 +35,7 @@
         "dependencies": {
           "MediatR": "9.0.0",
           "MediatR.Extensions.Microsoft.DependencyInjection": "9.0.0",
+          "MicroRabbit.Banking.Application": "1.0.0",
           "MicroRabbit.Domain.Core": "1.0.0",
           "MicroRabbit.Infra.Ioc": "1.0.0",
           "Swashbuckle.AspNetCore": "6.2.3",
@@ -1360,6 +1361,9 @@
         }
       },
       "MicroRabbit.Banking.Domain/1.0.0": {
+        "dependencies": {
+          "MicroRabbit.Domain.Core": "1.0.0"
+        },
         "runtime": {
           "MicroRabbit.Banking.Domain.dll": {}
         },

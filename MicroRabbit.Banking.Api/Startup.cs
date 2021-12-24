@@ -50,7 +50,7 @@ namespace MicroRabbit.Banking.Api
             services.AddControllers();
         }
 
-        private void RegisterServices(IServiceCollection services)
+        private static void RegisterServices(IServiceCollection services)
         {
             DependecyContainer.RegisterServices(services);
         }
@@ -70,7 +70,7 @@ namespace MicroRabbit.Banking.Api
             }
 
             app.UseHttpsRedirection();
-           // app.UseStaticFiles();
+            // app.UseStaticFiles();
 
             app.UseRouting();
 
@@ -83,7 +83,8 @@ namespace MicroRabbit.Banking.Api
 
             app.UseSwagger();
 
-            app.UseSwaggerUI(c => {
+            app.UseSwaggerUI(c =>
+            {
                 c.SwaggerEndpoint("/swagger/v1/swagger.json", "Banking Microservice V1");
             });
         }

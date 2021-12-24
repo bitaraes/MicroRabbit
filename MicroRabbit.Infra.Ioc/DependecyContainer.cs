@@ -22,7 +22,7 @@ namespace MicroRabbit.Infra.Ioc
         public static void RegisterServices(IServiceCollection services)
         {
             //Domain Bus
-            //services.AddTransient<IEventBus, RabbitMQBus>();
+            services.AddTransient<IEventBus, RabbitMQBus>();
 
             //Domain Banking Commands
             services.AddTransient<IRequestHandler<CreateTransferCommand, bool>, TransferCommandHandler>();

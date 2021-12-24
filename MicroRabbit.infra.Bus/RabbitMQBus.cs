@@ -32,15 +32,13 @@ namespace MicroRabbit.infra.Bus
         public void Publish<T>(T @event) where T : Event
         {
             var factory = new ConnectionFactory() { HostName = "localhost" };
-            using (var connection = factory.CreateConnection())
-            using(var channel = connection.CreateModel())
-            {
-                var eventName = @event.GetType().Name;
-                channel.QueueDeclare(eventName, false, false, false, null);
-                var message = JsonConvert.SerializeObject(@event);
-                var body = Encoding.UTF8.GetBytes(message);
-                channel.BasicPublish("", eventName, null, body);
-            }
+            using var connection = factory.CreateConnection();
+            using var channel = connection.CreateModel();
+            var eventName = @event.GetType().Name;
+            channel.QueueDeclare(eventName, false, false, false, null);
+            var message = JsonConvert.SerializeObject(@event);
+            var body = Encoding.UTF8.GetBytes(message);
+            channel.BasicPublish("", eventName, null, body);
         }
 
         public void Subscribe<T, TH>()
@@ -85,7 +83,11 @@ namespace MicroRabbit.infra.Bus
             try
             {
                 await ProcessEvent(eventName, message).ConfigureAwait(false);
-            } catch (Exception ex) { }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex);
+            }
         }
 
         private async Task ProcessEvent(string eventName, string message)
@@ -93,7 +95,7 @@ namespace MicroRabbit.infra.Bus
             if (_handlers.ContainsKey(eventName))
             {
                 var subscriptions = _handlers[eventName];
-                foreach(var subscription in subscriptions)
+                foreach (var subscription in subscriptions)
                 {
                     var handler = Activator.CreateInstance(subscription);
                     if (handler == null) continue;

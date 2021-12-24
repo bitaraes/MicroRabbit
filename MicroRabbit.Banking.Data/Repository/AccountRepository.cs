@@ -11,7 +11,7 @@ namespace MicroRabbit.Banking.Data.Repository
 {
     public class AccountRepository : IAccountRepository
     {
-        private BankingDBContext _ctx;
+        private readonly BankingDBContext _ctx;
 
         public AccountRepository(BankingDBContext ctx)
         {
