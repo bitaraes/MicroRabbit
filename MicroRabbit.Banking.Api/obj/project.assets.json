@@ -1544,6 +1544,9 @@
       "MicroRabbit.Banking.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "MicroRabbit.Domain.Core": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/MicroRabbit.Banking.Domain.dll": {}
         },
@@ -5816,6 +5819,7 @@
     "net5.0": [
       "MediatR >= 9.0.0",
       "MediatR.Extensions.Microsoft.DependencyInjection >= 9.0.0",
+      "MicroRabbit.Banking.Application >= 1.0.0",
       "MicroRabbit.Domain.Core >= 1.0.0",
       "MicroRabbit.Infra.Ioc >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.2.3"
@@ -5848,6 +5852,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+            "C:\\Users\\Igor\\source\\repos\\MicroRabbit\\MicroRabbit.Banking.Application\\MicroRabbit.Banking.Application.csproj": {
+              "projectPath": "C:\\Users\\Igor\\source\\repos\\MicroRabbit\\MicroRabbit.Banking.Application\\MicroRabbit.Banking.Application.csproj"
+            },
             "C:\\Users\\Igor\\source\\repos\\MicroRabbit\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj": {
               "projectPath": "C:\\Users\\Igor\\source\\repos\\MicroRabbit\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj"
             },
