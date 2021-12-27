@@ -1,0 +1,12 @@
+C:\Users\Igor\source\repos\MicroRabbit\MicroRabbitTransferApplication\bin\Debug\net5.0\MicroRabbitTransferApplication.deps.json
+C:\Users\Igor\source\repos\MicroRabbit\MicroRabbitTransferApplication\bin\Debug\net5.0\MicroRabbitTransferApplication.dll
+C:\Users\Igor\source\repos\MicroRabbit\MicroRabbitTransferApplication\bin\Debug\net5.0\ref\MicroRabbitTransferApplication.dll
+C:\Users\Igor\source\repos\MicroRabbit\MicroRabbitTransferApplication\bin\Debug\net5.0\MicroRabbitTransferApplication.pdb
+C:\Users\Igor\source\repos\MicroRabbit\MicroRabbitTransferApplication\obj\Debug\net5.0\MicroRabbitTransferApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\source\repos\MicroRabbit\MicroRabbitTransferApplication\obj\Debug\net5.0\MicroRabbitTransferApplication.AssemblyInfoInputs.cache
+C:\Users\Igor\source\repos\MicroRabbit\MicroRabbitTransferApplication\obj\Debug\net5.0\MicroRabbitTransferApplication.AssemblyInfo.cs
+C:\Users\Igor\source\repos\MicroRabbit\MicroRabbitTransferApplication\obj\Debug\net5.0\MicroRabbitTransferApplication.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\MicroRabbit\MicroRabbitTransferApplication\obj\Debug\net5.0\MicroRabbitTransferApplication.dll
+C:\Users\Igor\source\repos\MicroRabbit\MicroRabbitTransferApplication\obj\Debug\net5.0\ref\MicroRabbitTransferApplication.dll
+C:\Users\Igor\source\repos\MicroRabbit\MicroRabbitTransferApplication\obj\Debug\net5.0\MicroRabbitTransferApplication.pdb
+C:\Users\Igor\source\repos\MicroRabbit\MicroRabbitTransferApplication\obj\Debug\net5.0\MicroRabbitTransferApplication.csproj.AssemblyReference.cache

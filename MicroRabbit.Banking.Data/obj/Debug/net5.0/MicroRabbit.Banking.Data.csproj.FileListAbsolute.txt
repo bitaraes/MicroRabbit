@@ -5,7 +5,9 @@ C:\Users\Igor\source\repos\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\net5.0
 C:\Users\Igor\source\repos\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\net5.0\ref\MicroRabbit.Banking.Data.dll
 C:\Users\Igor\source\repos\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\net5.0\MicroRabbit.Banking.Data.pdb
 C:\Users\Igor\source\repos\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\net5.0\MicroRabbit.Banking.Domain.dll
+C:\Users\Igor\source\repos\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\net5.0\MicroRabbit.Domain.Core.dll
 C:\Users\Igor\source\repos\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\net5.0\MicroRabbit.Banking.Domain.pdb
+C:\Users\Igor\source\repos\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\net5.0\MicroRabbit.Domain.Core.pdb
 C:\Users\Igor\source\repos\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\net5.0\MicroRabbit.Banking.Data.csproj.AssemblyReference.cache
 C:\Users\Igor\source\repos\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\net5.0\MicroRabbit.Banking.Data.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Igor\source\repos\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\net5.0\MicroRabbit.Banking.Data.AssemblyInfoInputs.cache
@@ -16,5 +18,3 @@ C:\Users\Igor\source\repos\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\net5.0
 C:\Users\Igor\source\repos\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\net5.0\ref\MicroRabbit.Banking.Data.dll
 C:\Users\Igor\source\repos\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\net5.0\MicroRabbit.Banking.Data.pdb
 C:\Users\Igor\source\repos\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\net5.0\MicroRabbit.Banking.Data.genruntimeconfig.cache
-C:\Users\Igor\source\repos\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\net5.0\MicroRabbit.Domain.Core.dll
-C:\Users\Igor\source\repos\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\net5.0\MicroRabbit.Domain.Core.pdb

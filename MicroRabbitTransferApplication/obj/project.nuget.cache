@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "YD607fOwr9shEPNUNe/P03RXwdLppdG3WBQzooojNN3xEvuO0cA4uM54Ga3U9459rSBDZfN1l8TQOlg4ESAyKQ==",
+  "dgSpecHash": "DldaEu1uUHIBKyWan+eJOD9deEAFNA8rdp9sH+BF4CfIRumh7vL+28eknU1l4R5K7BlSj2nmTOVPb1GMdg1ygg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Igor\\source\\repos\\MicroRabbit\\MicroRabbitTransferApplication\\MicroRabbitTransferApplication.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Igor\\source\\repos\\MicroRabbit\\MicroRabbitTransferApplication\\MicroRabbit.Transfer.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Igor\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

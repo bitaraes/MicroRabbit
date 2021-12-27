@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MicroRabbitTransferApplication/1.0.0": {
+        "runtime": {
+          "MicroRabbitTransferApplication.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MicroRabbitTransferApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
