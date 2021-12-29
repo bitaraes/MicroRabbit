@@ -1408,6 +1408,7 @@
         "dependencies": {
           "MediatR": "9.0.0",
           "MicroRabbit.Domain.Core": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection": "6.0.0",
           "Newtonsoft.Json": "13.0.1",
           "RabbitMQ.Client": "6.2.2"
         },
@@ -1462,6 +1463,9 @@
         }
       },
       "MicroRabbit.Transfer.Domain/1.0.0": {
+        "dependencies": {
+          "MicroRabbit.Domain.Core": "1.0.0"
+        },
         "runtime": {
           "MicroRabbit.Transfer.Domain.dll": {}
         },
